@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dependency injection with kodein</string>
+    <string name="add">ADD</string>
+    <string name="date">date</string>
+    <string name="add_item_todo">add item todo</string>
+    <string name="items_todos">add your item todo here and date respectively</string>
+</resources>
